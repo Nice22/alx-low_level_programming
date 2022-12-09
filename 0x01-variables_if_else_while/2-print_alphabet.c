@@ -5,7 +5,7 @@
  *   *
  *    * Return: Always 0 (Success)
  */
-int main(void)
+	int main(void)
 	{
 		char a;
 
@@ -15,4 +15,4 @@ int main(void)
 		}
 		putchar('\n');	
 		return (0);
-}
+	}
