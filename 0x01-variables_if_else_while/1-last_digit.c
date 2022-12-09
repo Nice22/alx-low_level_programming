@@ -6,9 +6,9 @@
  * main - Entry point
  * Return: Always 0 (Success)
  */
+
 int main(void)
-{ 
-	int n;
+{ 	int n;
 	int x;
 
 	srand(time(0));
