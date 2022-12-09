@@ -8,13 +8,12 @@
  */
 int main(void)
 {
-	int a;
-	
-	for (a = '0'; a <= '9'; a++)
-	{
-		putchar(a);
-	}
+	int c = 0;
 
+	while (c < 10)
+	{
+		putchar(48 + c)
+		c++;									}
 	putchar('\n');
 	return (0);
 }
