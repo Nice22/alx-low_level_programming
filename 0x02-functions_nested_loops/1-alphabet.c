@@ -2,6 +2,7 @@
 
 /**
 *main - Entry point
+*Alphabet game in _C laguage
 *Description: 'the program's description'
 *Return: Always 0 (Success)
 */
