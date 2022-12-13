@@ -3,6 +3,7 @@
 /**
 *main - Entry point
 *Alphabet game in _C laguage
+*print_alphabet - Entry point
 *Description: 'the program's description'
 *Return: Always 0 (Success)
 */
