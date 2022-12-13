@@ -2,7 +2,7 @@
 
 /**
 *main - Entry point
-*Description: 'Alphabet game'
+*Description: 'print_alphabet - check the code for Holberton School students'
 *Return: Always 0 (Success)
 */
 
