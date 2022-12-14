@@ -12,7 +12,7 @@ int main(void)
 	unsigned long int hold = 0;
 	int i = 0;
 
-	for (i = 0;i <= 51;i++)
+	for (i = 0; i <= 51; i++)
 	{
 		if (i > 1)
 			printf("%lu", num);
