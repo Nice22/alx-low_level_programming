@@ -8,6 +8,7 @@
 int main(void)
 {
 	unsigned long int num = 0, num2 = 1, hold = 0, sum = 0;
+
 	while (hold < 4000000)
 	{
 		if (hold % 2 == 0)
