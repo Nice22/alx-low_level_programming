@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * _memcpy - irontnoux2
+ * _memcpy function copies n bytes
  * @dest: pointer to char params
  * @src: pointer to char params
+ * @n: size
  * Return: *dest
  */
 
