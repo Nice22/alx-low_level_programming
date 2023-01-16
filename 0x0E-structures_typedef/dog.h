@@ -7,8 +7,8 @@
  * @age: atribute float age's dog
  * @owner: atribute pointer to char owner's dog
  */
- 
- /*
+
+/*
  * Nick
  */
 
