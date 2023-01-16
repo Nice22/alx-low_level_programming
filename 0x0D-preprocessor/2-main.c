@@ -4,12 +4,10 @@
  * main - check the code
  * Return: Always 0.
  */
-/**
-* Nick
-*/
 
 int main(void)
 {
-  printf("%s\n", __FILE__);
-  return (0);
+	printf("%s\n", __FILE__);
+	return (0);
 }
+
