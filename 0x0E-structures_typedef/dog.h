@@ -14,7 +14,7 @@
  * Nick
  */
 
-struct dog my_dog
+struct dog dog
 {
 	char *name;
 	float age;
