@@ -6,7 +6,7 @@
  * @d: pointer to struct type dog
  * Return: No
  */
- 
+
 /*
  * Nick
  */
