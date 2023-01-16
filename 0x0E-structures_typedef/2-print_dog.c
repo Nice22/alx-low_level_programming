@@ -6,7 +6,7 @@
  * @d: pointer to struct type dog
  * Return: No
  */
- 
+
 /*
  * Nick
  */
@@ -34,3 +34,4 @@ void print_dog(struct dog *d)
 		}
 	}
 }
+
