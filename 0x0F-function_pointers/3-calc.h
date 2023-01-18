@@ -6,11 +6,11 @@
  * @op: The operator.
  * @f: The associated function.
  */
- 
+
 /*
  * Nick
  */
- 
+
 typedef struct op
 {
 	char *op;
