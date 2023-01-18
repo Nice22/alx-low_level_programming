@@ -1,8 +1,5 @@
 #ifndef FILE_F_POINTERS
 #define FILE_F_POINTERS
-/*
- * Nick
- */
 
 #include <stdio.h>
 #include <stdlib.h>
