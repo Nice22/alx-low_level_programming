@@ -1,16 +1,16 @@
-#ifndef FILE_CALC
-#define FILE_CALC
+#ifndef CALC_H
+#define CALC_H
 
 /**
- * struct op - Structure op
- * @op: operator
- * @f: function
+ * struct op - A struct op.
+ * @op: The operator.
+ * @f: The associated function.
  */
-
+ 
 /*
  * Nick
  */
-
+ 
 typedef struct op
 {
 	char *op;
