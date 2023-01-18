@@ -8,7 +8,7 @@
  * Return: A pointer to the function corresponding
  *         to the operator given as a parameter
  */
- 
+
 /*
  * Nick
  */

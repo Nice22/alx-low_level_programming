@@ -12,11 +12,11 @@ int op_mod(int a, int b);
  * @b: The second number.
  * Return: The sum of a and b.
  */
- 
+
 /*
  * Nick
  */
- 
+
 int op_add(int a, int b)
 {
 	return (a + b);
