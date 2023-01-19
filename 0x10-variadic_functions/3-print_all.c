@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdarg.h>
 /*
- * Nick 
+ * Nick
  */
 
 /**
