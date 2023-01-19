@@ -2,9 +2,10 @@
 #include <stdarg.h>
 
 /**
- * sum_them_all - sum all arguments
+ * sum_them_all -  sum all arguments
  * @n: int, number of undefined arguments
- * Returns: sum
+ *
+ * Return: sum of args
  * On error, 0 is returned
  */
 
