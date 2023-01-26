@@ -5,7 +5,6 @@
  * @h: Pointer to a list.
  * Return: Integer.
  **/
- 
 /*
  * Nick2219
  */
