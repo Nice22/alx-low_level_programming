@@ -8,7 +8,6 @@
  * @str: new string to add in the node
  * Return: the address of the new element, or NULL if it fails
  */
- 
 /*
  * Nick2219
  */
