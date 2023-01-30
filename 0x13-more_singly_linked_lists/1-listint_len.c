@@ -6,6 +6,7 @@
  * Return: Integer.
  **/
 
+/* Nick2219 */
 size_t listint_len(const listint_t *h)
 {
 	const listint_t *tp;

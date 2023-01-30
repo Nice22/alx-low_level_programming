@@ -8,10 +8,9 @@
  * struct listint_s - singly linked list
  * @n: integer
  * @next: points to the next node
- *
  * Description: singly linked list node structure
- * for Holberton project
  */
+/* Nick2219 */
 typedef struct listint_s
 {
 	int n;
