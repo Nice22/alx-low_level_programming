@@ -5,7 +5,8 @@
  * @head: list of type listint_t to print
  * Return: number of nodes in the list
  */
-/* Nick2219 */ 
+/* Nick2219 */
+
 size_t print_listint_safe(const listint_t *head)
 {
 	size_t num = 0;
