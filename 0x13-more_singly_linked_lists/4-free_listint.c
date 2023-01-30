@@ -5,7 +5,7 @@
  * free_listint - Frees a list.
  * @head: Address of the first node of a list.
  **/
- 
+
 /* Nick2219 */
 
 void free_listint(listint_t *head)
