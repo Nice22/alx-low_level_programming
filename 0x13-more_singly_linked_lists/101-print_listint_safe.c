@@ -11,6 +11,7 @@ size_t print_listint_safe(const listint_t *head);
  * Otherwise - the number of unique nodes in the list.
  */
 
+/* Nick2219*/
 size_t looped_listint_len(const listint_t *head)
 {
 	const listint_t *tortoise, *hare;
