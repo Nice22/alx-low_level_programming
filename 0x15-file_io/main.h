@@ -1,7 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-/* Nick2219 */ 
+/* Nick2219 */
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
