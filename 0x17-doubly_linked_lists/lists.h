@@ -32,7 +32,8 @@ int sum_dlistint(dlistint_t *head);
  * @n: value of new node
  * Return: new node or null
  **/
-dlistint_t *insert_dnodeint_at_index(dlistint_t **head, unsigned int idx, int n);
+dlistint_t *insert_dnodeint_at_index(dlistint_t
+	**head, unsigned int idx, int n);
 int delete_dnodeint_at_index(dlistint_t **head, unsigned int index);
 int is_palind(void);
 void find_palind(void);
